@@ -1,2 +1,4 @@
-# text-renderer
-A custom text renderer made in TypeScript
+# About 🚀
+just a lil custom text renderer
+
+# Photos 📷
